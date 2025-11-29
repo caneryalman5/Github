@@ -18,3 +18,5 @@ Bilgisayarınıza hiçbir şey kurmadan, aşağıdaki butona tıklayarak projeyi
 ## 📈 Sonuçlar
 Nearest Neighbor algoritmasına göre **%15 daha verimli** bir rota elde edilmiştir.
 
+```
+
