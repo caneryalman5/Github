@@ -1,0 +1,17 @@
+# Virtual environments
+tsp_venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Ignore route image (optional) - uncomment if you don't want to version images
+# tsp_route.png
